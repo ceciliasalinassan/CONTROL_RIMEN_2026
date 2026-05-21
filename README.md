@@ -1,0 +1,1 @@
+Vercel: Framework Other / Build Command npm run build / Output Directory dist
